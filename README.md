@@ -31,3 +31,17 @@ cd MACC
 conda create -n macc python=3.10
 conda activate macc
 pip install -r requirements.txt
+```
+
+## 🧠 Citation
+
+If you find this work useful, please cite:
+
+```
+@inproceedings{yan2025macc,
+  title     = {From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement},
+  author    = {Jianzhi Yan and Le Liu and Youcheng Pan and Shiwei Chen and Zike Yuan and Yang Xiang and Buzhou Tang},
+  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  year      = {2025}
+}
+```
